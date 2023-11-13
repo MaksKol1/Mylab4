@@ -1,0 +1,9 @@
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.AssemblyInfoInputs.cache
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.AssemblyInfo.cs
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.csproj.CoreCompileInputs.cache
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.RazorAssemblyInfo.cache
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.RazorAssemblyInfo.cs
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.csproj.AssemblyReference.cache
+C:\Users\Техно\dws\Mylab4\obj\Debug\net7.0\Mylab4.MvcApplicationPartsAssemblyInfo.cs
